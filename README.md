@@ -1,2 +1,2 @@
-# Customized-EvilPdf
- I have Turkishized this tool and i added some extra features
+# evilpdf
+Zararlı yazılımları pdf'lere gömme aracı.
